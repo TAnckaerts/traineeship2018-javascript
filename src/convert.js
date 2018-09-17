@@ -3,7 +3,6 @@
 // TODO 13 create separate test files for each class and test the available functions
 // TODO 14 think of some new functions/features to implement in these classes: inbox.clearAll(), person.removeInbox(inboxId), inbox.updateMessage(newMessage), inbox.archivedMessages, ...
 // TODO 15 create tests for those new functions
-//
 
 var Inbox = function(id, p1, p2) {
     this.id = id;
